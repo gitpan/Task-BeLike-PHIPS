@@ -28,7 +28,7 @@ requires:
   Modern::Perl: 0
   Module::Install: 0
   Module::Install::GithubMeta: 0
-  Mojolicious: 0
+  Mojolicious: 4
   Perl6::Export::Attrs: 0
   Perl::Critic: 0
   Perl::Tidy: 0
@@ -45,4 +45,4 @@ resources:
   homepage: https://github.com/phips/Task-BeLike-PHIPS/tree
   license: http://dev.perl.org/licenses/
   repository: https://github.com/phips/Task-BeLike-PHIPS.git
-version: 0.0.1
+version: 0.0.2
