@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.7';
+    $VERSION = '0.0.8';
 }
  
 1;
@@ -20,7 +20,7 @@ Task::BeLike::PHIPS - My favourite and frequently used modules
 
 =head1 VERSION
 
-version 0.0.6
+version 0.0.7
 
 =head1 TASK CONTENTS
 
@@ -65,6 +65,8 @@ version 0.0.6
 
 =head3 L<LWP::Protocol::https>
 
+=head3 L<WebService::Amazon::Route53>
+
 
 =head2 Testing
 
@@ -80,6 +82,8 @@ version 0.0.6
 =head3 L<Term::ReadLine::Gnu>
 
 =head3 L<Daemon::Control>
+
+=head3 L<Proc::Daemon>
 
 =head3 L<App::Ack>
 
